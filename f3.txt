@@ -1,2 +1,7 @@
 New line added
+
 line 2
+
+branch change 1
+branch change 2
+
